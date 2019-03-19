@@ -24,3 +24,5 @@ yarn-error.log*
 
 # tags file
 tags
+tags.lock
+tags.temp
